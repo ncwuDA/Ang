@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AngBZ
+- 👋 Hi, I’m @Angang
 - 👀 I’m interested in exercise and programming
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on programming learn
