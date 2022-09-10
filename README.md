@@ -2,7 +2,7 @@
 - 👀 I’m interested in exercise and programming
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on programming learn
-- 📫 How to reach me qq857248439
+- 📫 How to reach me qq1871015008
 
 <!---
 AngBZ/AngBZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
